@@ -1,0 +1,11 @@
+status_id,order_id,status,updated_at,notes
+1,1,Delivered,2026-06-10 11:05:45,Customer satisfied
+2,2,Delivered,2026-06-10 11:05:45,Delivered on time
+3,3,In Progress,2026-06-10 11:05:45,Stitching started
+4,4,Delivered,2026-06-10 11:05:45,Minor alteration done
+5,5,In Progress,2026-06-10 11:05:45,Fabric cutting done
+6,6,Pending,2026-06-10 11:05:45,Awaiting fabric arrival
+7,7,In Progress,2026-06-10 11:05:45,Design finalized
+8,8,Delivered,2026-06-10 11:05:45,Customer loved it
+9,9,Pending,2026-06-10 11:05:45,Scheduled for next week
+10,10,In Progress,2026-06-10 11:05:45,Measurements verified

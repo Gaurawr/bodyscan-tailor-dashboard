@@ -1,0 +1,11 @@
+customer_id,full_name,email,phone,city,created_at
+1,James Wilson,james.wilson@email.com,+1-555-0101,New York,2026-06-10 11:05:45
+2,Sarah Johnson,sarah.j@email.com,+1-555-0102,Los Angeles,2026-06-10 11:05:45
+3,Michael Brown,michael.b@email.com,+1-555-0103,Chicago,2026-06-10 11:05:45
+4,Emily Davis,emily.d@email.com,+1-555-0104,Houston,2026-06-10 11:05:45
+5,Robert Taylor,robert.t@email.com,+1-555-0105,Phoenix,2026-06-10 11:05:45
+6,Jennifer Martinez,jennifer.m@email.com,+1-555-0106,Philadelphia,2026-06-10 11:05:45
+7,William Anderson,william.a@email.com,+1-555-0107,San Antonio,2026-06-10 11:05:45
+8,Lisa Thompson,lisa.t@email.com,+1-555-0108,San Diego,2026-06-10 11:05:45
+9,David Garcia,david.g@email.com,+1-555-0109,Dallas,2026-06-10 11:05:45
+10,Karen White,karen.w@email.com,+1-555-0110,San Jose,2026-06-10 11:05:45
